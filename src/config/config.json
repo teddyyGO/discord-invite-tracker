@@ -1,0 +1,8 @@
+{
+  "guild_id": "",
+  "moderator_role_ids": [],
+  "log_channel_id": "",
+  "fake_min_age_days": 7,
+  "count_bots": false,
+  "reward_roles": []
+}
